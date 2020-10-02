@@ -10,7 +10,11 @@ A pytorch implement of End-to-End ASR
 
 ... ...
 
+pytorch transformer and simple nbest ...
+
 # Result
+
+### With Speed Perturbation
 
 E2E Model|WER
 |---|---|
