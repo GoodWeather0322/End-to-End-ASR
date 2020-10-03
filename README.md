@@ -14,9 +14,7 @@ A pytorch implement of End-to-End ASR
 
 An example architecture of multitask End-to-End ASR model
 
-![E2E model](/README/E2E.png =50x)
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+<img src="/README/E2E.png" width="100" height="100">
 
 # Result
 
