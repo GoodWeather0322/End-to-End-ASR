@@ -10,7 +10,7 @@ A pytorch implement of End-to-End ASR
 
 - Combine CrossEntropyLoss and CTCLoss with fixed weight to do multitask training for all models (CE : 0.7, CTC : 0.3)
 - Use only Decoder output for nbest decode(exclude CTC outputs)
-- a simple implement of nbest decode 
+- A simple implement of nbest decode 
 
 An example architecture of multitask End-to-End ASR model
 
