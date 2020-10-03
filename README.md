@@ -18,9 +18,11 @@ An example architecture of multitask End-to-End ASR model
 <img src="/README/E2E.png" height="400">
 </p>
 
-# Result on Aishell Dataset
+# Result
 
-### With Speed Perturbation
+### Aishell
+
+With Speed Perturbation
 
 E2E Model|WER
 |---|---|
